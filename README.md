@@ -11,4 +11,4 @@ This project is a random quote generator featuring Kanye West. With a click of a
   - **Requests**: Python library used for making HTTP requests to the Kanye Rest API.
 
 
-![app img](https://github.com/bardack134/Kanye-quotes-API/assets/142977989/2883899a-add0-430f-915a-d99dc5261fc2)
+![app img](https://github.com/bardack134/Kanye-quotes-API/assets/142977989/9e493b95-9495-46c4-baad-dbb62466a3a9)
