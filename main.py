@@ -4,9 +4,6 @@ from tkinter import *
 import requests
 
 
-def get_quote():
-    pass
-    #Write your code here.
 
 
 def get_quote():
